@@ -9,8 +9,6 @@ import UIKit
 
 class WeatherTableViewController: UITableViewController {
 
-    @IBOutlet weak var name: UILabel!
-    @IBOutlet weak var temperature: UILabel!
 
 //    var arrayWeather: [WeatherInformation] = [WeatherInformation]()
 
